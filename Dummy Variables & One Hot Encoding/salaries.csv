@@ -1,0 +1,608 @@
+work_year,job_title,salary
+2020,Data Scientist,70000
+2020,Machine Learning Scientist,260000
+2020,Big Data Engineer,85000
+2020,Product Data Analyst,20000
+2020,Machine Learning Engineer,150000
+2020,Data Analyst,72000
+2020,Lead Data Scientist,190000
+2020,Data Scientist,11000000
+2020,Business Data Analyst,135000
+2020,Lead Data Engineer,125000
+2020,Data Scientist,45000
+2020,Data Scientist,3000000
+2020,Data Scientist,35000
+2020,Lead Data Analyst,87000
+2020,Data Analyst,85000
+2020,Data Analyst,8000
+2020,Data Engineer,4450000
+2020,Big Data Engineer,100000
+2020,Data Science Consultant,423000
+2020,Lead Data Engineer,56000
+2020,Machine Learning Engineer,299000
+2020,Product Data Analyst,450000
+2020,Data Engineer,42000
+2020,BI Data Analyst,98000
+2020,Lead Data Scientist,115000
+2020,Director of Data Science,325000
+2020,Research Scientist,42000
+2020,Data Engineer,720000
+2020,Business Data Analyst,100000
+2020,Machine Learning Manager,157000
+2020,Data Engineering Manager,51999
+2020,Big Data Engineer,70000
+2020,Data Scientist,60000
+2020,Research Scientist,450000
+2020,Data Analyst,41000
+2020,Data Engineer,65000
+2020,Data Science Consultant,103000
+2020,Machine Learning Engineer,250000
+2020,Data Analyst,10000
+2020,Machine Learning Engineer,138000
+2020,Data Scientist,45760
+2020,Data Engineering Manager,70000
+2020,Machine Learning Infrastructure Engineer,44000
+2020,Data Engineer,106000
+2020,Data Engineer,88000
+2020,ML Engineer,14000
+2020,Data Scientist,60000
+2020,Data Engineer,188000
+2020,Data Scientist,105000
+2020,Data Engineer,61500
+2020,Data Analyst,450000
+2020,Data Analyst,91000
+2020,AI Scientist,300000
+2020,Data Engineer,48000
+2020,Computer Vision Engineer,60000
+2020,Principal Data Scientist,130000
+2020,Data Scientist,34000
+2020,Data Scientist,118000
+2020,Data Scientist,120000
+2020,Data Scientist,138350
+2020,Data Engineer,110000
+2020,Data Engineer,130800
+2020,Data Scientist,19000
+2020,Data Scientist,412000
+2020,Machine Learning Engineer,40000
+2020,Data Scientist,55000
+2020,Data Scientist,43200
+2020,Data Science Manager,190200
+2020,Data Scientist,105000
+2020,Data Scientist,80000
+2020,Data Scientist,55000
+2020,Data Scientist,37000
+2021,Research Scientist,60000
+2021,BI Data Analyst,150000
+2021,Head of Data,235000
+2021,Data Scientist,45000
+2021,BI Data Analyst,100000
+2021,3D Computer Vision Researcher,400000
+2021,ML Engineer,270000
+2021,Data Analyst,80000
+2021,Data Analytics Engineer,67000
+2021,Data Engineer,140000
+2021,Applied Data Scientist,68000
+2021,Machine Learning Engineer,40000
+2021,Director of Data Science,130000
+2021,Data Engineer,110000
+2021,Data Analyst,50000
+2021,Data Analytics Engineer,110000
+2021,Lead Data Analyst,170000
+2021,Data Analyst,80000
+2021,Marketing Data Analyst,75000
+2021,Data Science Consultant,65000
+2021,Lead Data Analyst,1450000
+2021,Lead Data Engineer,276000
+2021,Data Scientist,2200000
+2021,Cloud Data Engineer,120000
+2021,AI Scientist,12000
+2021,Financial Data Analyst,450000
+2021,Computer Vision Software Engineer,70000
+2021,Computer Vision Software Engineer,81000
+2021,Data Analyst,75000
+2021,Data Engineer,150000
+2021,BI Data Analyst,11000000
+2021,Data Analyst,62000
+2021,Data Scientist,73000
+2021,Data Analyst,37456
+2021,Research Scientist,235000
+2021,Data Engineer,115000
+2021,Data Engineer,150000
+2021,Data Engineer,2250000
+2021,Machine Learning Engineer,80000
+2021,Director of Data Engineering,82500
+2021,Lead Data Engineer,75000
+2021,AI Scientist,12000
+2021,Data Engineer,38400
+2021,Machine Learning Scientist,225000
+2021,Data Scientist,50000
+2021,Data Science Engineer,34000
+2021,Data Analyst,90000
+2021,Data Engineer,200000
+2021,Big Data Engineer,60000
+2021,Principal Data Engineer,200000
+2021,Data Analyst,50000
+2021,Applied Data Scientist,80000
+2021,Data Analyst,8760
+2021,Principal Data Scientist,151000
+2021,Machine Learning Scientist,120000
+2021,Data Scientist,700000
+2021,Machine Learning Engineer,20000
+2021,Lead Data Scientist,3000000
+2021,Machine Learning Developer,100000
+2021,Data Scientist,42000
+2021,Applied Machine Learning Scientist,38400
+2021,Computer Vision Engineer,24000
+2021,Data Scientist,100000
+2021,Data Analyst,90000
+2021,ML Engineer,7000000
+2021,ML Engineer,8500000
+2021,Principal Data Scientist,220000
+2021,Data Scientist,80000
+2021,Data Analyst,135000
+2021,Data Science Manager,240000
+2021,Data Engineering Manager,150000
+2021,Data Scientist,82500
+2021,Data Engineer,100000
+2021,Machine Learning Engineer,70000
+2021,Research Scientist,53000
+2021,Data Engineer,90000
+2021,Data Engineering Manager,153000
+2021,Cloud Data Engineer,160000
+2021,Director of Data Science,168000
+2021,Data Scientist,150000
+2021,Data Scientist,95000
+2021,Data Scientist,13400
+2021,Data Science Manager,144000
+2021,Data Science Engineer,159500
+2021,Data Scientist,160000
+2021,Applied Machine Learning Scientist,423000
+2021,Data Analytics Manager,120000
+2021,Machine Learning Engineer,125000
+2021,Head of Data,230000
+2021,Head of Data Science,85000
+2021,Data Engineer,24000
+2021,Data Science Consultant,54000
+2021,Director of Data Science,110000
+2021,Data Specialist,165000
+2021,Data Engineer,80000
+2021,Director of Data Science,250000
+2021,BI Data Analyst,55000
+2021,Data Architect,150000
+2021,Data Architect,170000
+2021,Data Engineer,60000
+2021,Data Analyst,60000
+2021,Principal Data Scientist,235000
+2021,Research Scientist,51400
+2021,Data Engineering Manager,174000
+2021,Data Scientist,58000
+2021,Data Scientist,30400000
+2021,Machine Learning Engineer,81000
+2021,Data Scientist,420000
+2021,Big Data Engineer,1672000
+2021,Data Scientist,76760
+2021,Data Engineer,22000
+2021,Finance Data Analyst,45000
+2021,Machine Learning Scientist,12000
+2021,Data Engineer,4000
+2021,Data Analytics Engineer,50000
+2021,Data Science Consultant,59000
+2021,Data Engineer,65000
+2021,Machine Learning Engineer,74000
+2021,Data Science Manager,152000
+2021,Machine Learning Engineer,21844
+2021,Big Data Engineer,18000
+2021,Data Science Manager,174000
+2021,Research Scientist,120500
+2021,Data Scientist,147000
+2021,BI Data Analyst,9272
+2021,Machine Learning Engineer,1799997
+2021,Data Science Manager,4000000
+2021,Data Science Consultant,90000
+2021,Data Scientist,52000
+2021,Machine Learning Infrastructure Engineer,195000
+2021,Data Scientist,32000
+2021,Research Scientist,50000
+2021,Data Scientist,160000
+2021,Data Scientist,69600
+2021,Machine Learning Engineer,200000
+2021,Data Engineer,165000
+2021,Data Engineer,20000
+2021,Data Analytics Manager,120000
+2021,Machine Learning Engineer,21000
+2021,Research Scientist,48000
+2021,Data Engineer,48000
+2021,Big Data Engineer,435000
+2021,Machine Learning Engineer,21000
+2021,Principal Data Engineer,185000
+2021,Computer Vision Engineer,180000
+2021,Data Scientist,76760
+2021,Machine Learning Engineer,75000
+2021,Data Analytics Manager,140000
+2021,Machine Learning Engineer,180000
+2021,Data Scientist,85000
+2021,Data Scientist,2500000
+2021,Data Scientist,40900
+2021,Machine Learning Scientist,225000
+2021,Principal Data Scientist,416000
+2021,Data Scientist,110000
+2021,Data Scientist,75000
+2021,Data Scientist,135000
+2021,Data Analyst,90000
+2021,Big Data Engineer,1200000
+2021,ML Engineer,256000
+2021,Director of Data Engineering,200000
+2021,Data Analyst,200000
+2021,Data Architect,180000
+2021,Head of Data Science,110000
+2021,Research Scientist,80000
+2021,Data Scientist,39600
+2021,Data Scientist,4000
+2021,Data Engineer,1600000
+2021,Data Scientist,130000
+2021,Data Analyst,80000
+2021,Data Engineer,110000
+2021,Data Scientist,165000
+2021,AI Scientist,1335000
+2021,Data Engineer,52500
+2021,Data Scientist,31000
+2021,Data Engineer,108000
+2021,Data Engineer,70000
+2021,Principal Data Analyst,170000
+2021,Data Scientist,115000
+2021,Data Scientist,90000
+2021,Principal Data Engineer,600000
+2021,Data Scientist,2100000
+2021,Data Analyst,93000
+2021,Big Data Architect,125000
+2021,Data Engineer,200000
+2021,Principal Data Scientist,147000
+2021,Machine Learning Engineer,185000
+2021,Director of Data Science,120000
+2021,Data Scientist,130000
+2021,Data Analyst,54000
+2021,Data Scientist,1250000
+2021,Machine Learning Engineer,4900000
+2021,Data Scientist,21600
+2021,Lead Data Engineer,160000
+2021,Data Engineer,93150
+2021,Data Engineer,111775
+2021,Data Engineer,250000
+2021,Data Engineer,55000
+2021,Data Engineer,72500
+2021,Computer Vision Engineer,102000
+2021,Data Science Consultant,65000
+2021,Machine Learning Engineer,85000
+2021,Data Scientist,65720
+2021,Data Scientist,100000
+2021,Data Scientist,58000
+2021,AI Scientist,55000
+2021,Data Scientist,180000
+2021,Business Data Analyst,50000
+2021,Data Engineer,112000
+2021,Research Scientist,100000
+2021,Data Engineer,59000
+2021,Staff Data Scientist,105000
+2021,Research Scientist,69999
+2021,Data Science Manager,7000000
+2021,Head of Data,87000
+2021,Data Scientist,109000
+2021,Machine Learning Engineer,43200
+2022,Data Engineer,135000
+2022,Data Analyst,155000
+2022,Data Analyst,120600
+2022,Data Scientist,130000
+2022,Data Scientist,90000
+2022,Data Engineer,170000
+2022,Data Engineer,150000
+2022,Data Analyst,102100
+2022,Data Analyst,84900
+2022,Data Scientist,136620
+2022,Data Scientist,99360
+2022,Data Scientist,90000
+2022,Data Scientist,80000
+2022,Data Scientist,146000
+2022,Data Scientist,123000
+2022,Data Engineer,40000
+2022,Data Analyst,99000
+2022,Data Analyst,116000
+2022,Data Analyst,106260
+2022,Data Analyst,126500
+2022,Data Engineer,242000
+2022,Data Engineer,200000
+2022,Data Scientist,50000
+2022,Data Scientist,30000
+2022,Data Engineer,60000
+2022,Data Engineer,40000
+2022,Data Scientist,165220
+2022,Data Engineer,35000
+2022,Data Scientist,120160
+2022,Data Analyst,90320
+2022,Data Engineer,181940
+2022,Data Engineer,132320
+2022,Data Engineer,220110
+2022,Data Engineer,160080
+2022,Data Scientist,180000
+2022,Data Scientist,120000
+2022,Data Analyst,124190
+2022,Data Analyst,130000
+2022,Data Analyst,110000
+2022,Data Analyst,170000
+2022,Data Analyst,115500
+2022,Data Analyst,112900
+2022,Data Analyst,90320
+2022,Data Analyst,112900
+2022,Data Analyst,90320
+2022,Data Engineer,165400
+2022,Data Engineer,132320
+2022,Data Analyst,167000
+2022,Data Engineer,243900
+2022,Data Analyst,136600
+2022,Data Analyst,109280
+2022,Data Engineer,128875
+2022,Data Engineer,93700
+2022,Head of Data Science,224000
+2022,Head of Data Science,167875
+2022,Analytics Engineer,175000
+2022,Data Engineer,156600
+2022,Data Engineer,108800
+2022,Data Scientist,95550
+2022,Data Engineer,113000
+2022,Data Analyst,135000
+2022,Data Science Manager,161342
+2022,Data Science Manager,137141
+2022,Data Scientist,167000
+2022,Data Scientist,123000
+2022,Data Engineer,60000
+2022,Data Engineer,50000
+2022,Data Scientist,150000
+2022,Data Scientist,211500
+2022,Data Architect,192400
+2022,Data Architect,90700
+2022,Data Analyst,130000
+2022,Data Analyst,61300
+2022,Data Analyst,130000
+2022,Data Analyst,61300
+2022,Data Engineer,160000
+2022,Data Scientist,138600
+2022,Data Engineer,136000
+2022,Data Analyst,58000
+2022,Analytics Engineer,135000
+2022,Data Scientist,170000
+2022,Data Scientist,123000
+2022,Machine Learning Engineer,189650
+2022,Machine Learning Engineer,164996
+2022,ETL Developer,50000
+2022,ETL Developer,50000
+2022,Lead Data Engineer,150000
+2022,Data Analyst,132000
+2022,Data Engineer,165400
+2022,Data Architect,208775
+2022,Data Architect,147800
+2022,Data Engineer,136994
+2022,Data Engineer,101570
+2022,Data Analyst,128875
+2022,Data Analyst,93700
+2022,Head of Machine Learning,6000000
+2022,Data Engineer,132320
+2022,Machine Learning Engineer,28500
+2022,Data Analyst,164000
+2022,Data Engineer,155000
+2022,Machine Learning Engineer,95000
+2022,Machine Learning Engineer,75000
+2022,AI Scientist,120000
+2022,Data Analyst,112900
+2022,Data Analyst,90320
+2022,Data Analytics Manager,145000
+2022,Data Analytics Manager,105400
+2022,Machine Learning Engineer,80000
+2022,Data Engineer,90000
+2022,Data Scientist,215300
+2022,Data Scientist,158200
+2022,Data Engineer,209100
+2022,Data Engineer,154600
+2022,Data Analyst,115934
+2022,Data Analyst,81666
+2022,Data Engineer,175000
+2022,Data Engineer,75000
+2022,Data Analyst,58000
+2022,Data Engineer,183600
+2022,Data Analyst,40000
+2022,Data Scientist,180000
+2022,Data Scientist,55000
+2022,Data Scientist,35000
+2022,Data Engineer,60000
+2022,Data Engineer,45000
+2022,Data Engineer,60000
+2022,Data Engineer,45000
+2022,Data Scientist,260000
+2022,Data Science Engineer,60000
+2022,Data Engineer,63900
+2022,Machine Learning Scientist,160000
+2022,Machine Learning Scientist,112300
+2022,Data Science Manager,241000
+2022,Data Science Manager,159000
+2022,Data Scientist,180000
+2022,Data Scientist,80000
+2022,Data Engineer,82900
+2022,Data Engineer,100800
+2022,Data Engineer,45000
+2022,Data Scientist,140400
+2022,Data Analyst,30000
+2022,Data Analyst,40000
+2022,Data Analyst,30000
+2022,Data Engineer,80000
+2022,Data Engineer,70000
+2022,Data Engineer,80000
+2022,Data Engineer,70000
+2022,Data Engineer,60000
+2022,Data Engineer,80000
+2022,Machine Learning Engineer,189650
+2022,Machine Learning Engineer,164996
+2022,Data Analyst,40000
+2022,Data Analyst,30000
+2022,Data Engineer,75000
+2022,Data Engineer,60000
+2022,Data Scientist,215300
+2022,Data Engineer,70000
+2022,Data Engineer,209100
+2022,Data Engineer,154600
+2022,Data Engineer,180000
+2022,ML Engineer,20000
+2022,Data Engineer,80000
+2022,Machine Learning Developer,100000
+2022,Director of Data Science,250000
+2022,Machine Learning Engineer,120000
+2022,Computer Vision Engineer,125000
+2022,NLP Engineer,240000
+2022,Data Engineer,105000
+2022,Lead Machine Learning Engineer,80000
+2022,Business Data Analyst,1400000
+2022,Data Scientist,2400000
+2022,Machine Learning Infrastructure Engineer,53000
+2022,Financial Data Analyst,100000
+2022,Data Engineer,50000
+2022,Data Scientist,1400000
+2022,Principal Data Scientist,148000
+2022,Data Engineer,120000
+2022,Research Scientist,144000
+2022,Data Scientist,104890
+2022,Data Engineer,100000
+2022,Data Scientist,140000
+2022,Data Analyst,135000
+2022,Data Analyst,50000
+2022,Data Scientist,220000
+2022,Data Scientist,140000
+2022,Data Scientist,140000
+2022,Data Scientist,70000
+2022,Data Scientist,185100
+2022,Machine Learning Engineer,220000
+2022,Data Scientist,200000
+2022,Data Scientist,120000
+2022,Machine Learning Engineer,120000
+2022,Machine Learning Engineer,65000
+2022,Data Engineer,324000
+2022,Data Engineer,216000
+2022,Data Engineer,210000
+2022,Machine Learning Engineer,120000
+2022,Data Scientist,230000
+2022,Data Scientist,100000
+2022,Data Scientist,100000
+2022,Applied Machine Learning Scientist,29000
+2022,Head of Data,200000
+2022,Principal Data Analyst,75000
+2022,Data Scientist,150000
+2022,Machine Learning Developer,100000
+2022,Data Scientist,100000
+2022,Machine Learning Scientist,153000
+2022,Data Engineer,52800
+2022,Data Scientist,165000
+2022,Research Scientist,85000
+2022,Data Scientist,66500
+2022,Machine Learning Engineer,57000
+2022,Head of Data,30000
+2022,Data Scientist,40000
+2022,Machine Learning Engineer,121000
+2022,Data Engineer,115000
+2022,Data Scientist,120000
+2022,Applied Machine Learning Scientist,75000
+2022,Research Scientist,59000
+2022,Research Scientist,120000
+2022,Applied Data Scientist,157000
+2022,Computer Vision Software Engineer,150000
+2022,Business Data Analyst,90000
+2022,Data Engineer,65000
+2022,Machine Learning Engineer,65000
+2022,Data Analytics Engineer,20000
+2022,Data Scientist,48000
+2022,Data Science Manager,152500
+2022,Data Engineer,62000
+2022,Data Scientist,115000
+2022,Applied Data Scientist,380000
+2022,Data Scientist,88000
+2022,Computer Vision Engineer,10000
+2022,Data Analyst,20000
+2022,Data Analytics Lead,405000
+2022,Data Scientist,135000
+2022,Applied Data Scientist,177000
+2022,Data Scientist,78000
+2022,Data Analyst,135000
+2022,Data Analyst,100000
+2022,Data Analyst,90320
+2022,Data Analyst,85000
+2022,Data Analyst,75000
+2022,Machine Learning Engineer,214000
+2022,Machine Learning Engineer,192600
+2022,Data Architect,266400
+2022,Data Architect,213120
+2022,Data Analyst,112900
+2022,Data Engineer,155000
+2022,Data Scientist,141300
+2022,Data Scientist,102100
+2022,Data Analyst,115934
+2022,Data Analyst,81666
+2022,Data Engineer,206699
+2022,Data Engineer,99100
+2022,Data Engineer,130000
+2022,Data Engineer,115000
+2022,Data Engineer,110500
+2022,Data Engineer,130000
+2022,Data Analyst,99050
+2022,Data Engineer,160000
+2022,Data Scientist,205300
+2022,Data Scientist,140400
+2022,Data Scientist,176000
+2022,Data Scientist,144000
+2022,Data Engineer,200100
+2022,Data Engineer,160000
+2022,Data Engineer,145000
+2022,Data Engineer,70500
+2022,Data Scientist,205300
+2022,Data Scientist,140400
+2022,Analytics Engineer,205300
+2022,Analytics Engineer,184700
+2022,Data Engineer,175100
+2022,Data Engineer,140250
+2022,Data Analyst,116150
+2022,Data Engineer,54000
+2022,Data Analyst,170000
+2022,Data Analyst,50000
+2022,Data Analyst,80000
+2022,Data Scientist,140000
+2022,Data Scientist,210000
+2022,Data Scientist,140000
+2022,Data Analyst,100000
+2022,Data Analyst,69000
+2022,Data Scientist,210000
+2022,Data Scientist,140000
+2022,Data Scientist,210000
+2022,Data Analyst,150075
+2022,Data Engineer,100000
+2022,Data Engineer,25000
+2022,Data Analyst,126500
+2022,Data Analyst,106260
+2022,Data Engineer,220110
+2022,Data Engineer,160080
+2022,Data Analyst,105000
+2022,Data Analyst,110925
+2022,Data Analyst,35000
+2022,Data Scientist,140000
+2022,Data Analyst,99000
+2022,Data Analyst,60000
+2022,Data Architect,192564
+2022,Data Architect,144854
+2022,Data Scientist,230000
+2022,Data Scientist,150000
+2022,Data Analytics Manager,150260
+2022,Data Analytics Manager,109280
+2022,Data Scientist,210000
+2022,Data Analyst,170000
+2022,Data Scientist,160000
+2022,Data Scientist,130000
+2022,Data Analyst,67000
+2022,Data Analyst,52000
+2022,Data Engineer,154000
+2022,Data Engineer,126000
+2022,Data Analyst,129000
+2022,Data Analyst,150000
+2022,AI Scientist,200000
